@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import PushNotificationTest
+//@testable import PushNotificationTest
 
 class PushNotificationTestTests: XCTestCase {
     
